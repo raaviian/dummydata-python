@@ -1,4 +1,4 @@
-# dummydata python
+# dummydata generator (python)
  Create a dummy data to csv with only python
  Data can be used for SQL
 
